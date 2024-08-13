@@ -33,6 +33,10 @@ function App() {
       <h1 className="title">Saber</h1>
       <MyComponent />
       <hr />
+      <MyComponent />
+      <hr />
+      <MyComponent />
+      <hr />
     
     </div>
   );
